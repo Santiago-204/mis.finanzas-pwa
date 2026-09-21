@@ -1,0 +1,13 @@
+{
+  "name": "Mis Finanzas",
+  "short_name": "Mis Finanzas",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#5e7d5a",
+  "description": "Dashboard personal de finanzas: cuentas, gastos, deudas y cobros.",
+  "icons": [
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png", "purpose": "maskable" }
+  ]
+}
